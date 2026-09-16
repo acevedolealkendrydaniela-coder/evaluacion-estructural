@@ -2,4 +2,4 @@ streamlit
 opencv-python-headless
 numpy==1.26.4
 tf_keras
-pillow
+pillow 

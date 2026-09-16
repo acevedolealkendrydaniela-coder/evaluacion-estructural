@@ -1,0 +1,2 @@
+0 positivo
+1 negativo
